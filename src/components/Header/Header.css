@@ -17,7 +17,7 @@
   align-items: center;
 }
 
-.menu-option a {
+.menu-option div {
   color: white;
   cursor: pointer;
 }
