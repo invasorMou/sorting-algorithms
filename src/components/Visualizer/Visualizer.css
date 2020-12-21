@@ -1,0 +1,13 @@
+.container-bar {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+  
+.sortable-bar {
+  background: silver;
+  width: 4px;
+  display: inline-block;
+  margin: 0 2px 0 0;
+}
